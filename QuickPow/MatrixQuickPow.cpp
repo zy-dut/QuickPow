@@ -8,7 +8,7 @@
 #include <vector>
 using namespace std;
 
-
+// º¯ÊıÉùÃ÷
 vector<vector<int>> matrix_multiply(vector<vector<int>>& a, vector<vector<int>>& b);
 vector<vector<int>> matrix_pow(vector<vector<int>> base, int pow);
 
